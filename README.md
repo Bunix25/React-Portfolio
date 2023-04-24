@@ -46,7 +46,7 @@ This project is license under MIT ![Github licence](http://img.shields.io/badge/
 
 
 ## Link 
-<a href="https://.github.io/React_Portfolio/">Click Here</a>
+<a href="https://bunix25.github.io/React-Portfolio/#about">Click Here</a>
 
 ## Usage 
 
