@@ -4,7 +4,7 @@
 
 ## Description 
 
-Being a web developer means being part of a community. We all need a place to share our projects not only if we're applying for jobs or working as a freelancer but also so that we can share our work with fellow developers and collaborate on future projects. 
+As a web developer, I want to create a React portfolio to showcase my skills and experience to potential employers, so that they can assess my abilities and consider me for job opportunities. 
 
 
 ## Table of Contents
