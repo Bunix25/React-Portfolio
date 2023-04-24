@@ -614,7 +614,7 @@ label {
   display: flex;
 }
 
-/* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
+
 
 @media screen and (max-width: 980px) {
   header {
@@ -673,9 +673,7 @@ label {
 }
 
 @media screen and (max-width: 768px) {
-  /* section {
-    padding: 30px 15px;
-  } */
+
 
   .job h3 {
     flex: 1 100%;
