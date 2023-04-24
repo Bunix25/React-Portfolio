@@ -28,7 +28,7 @@ This project is license under MIT ![Github licence](http://img.shields.io/badge/
 1. Run `npm start` to start the web server and connect
 
 ## User Story
-
+As a job seeker, I want to showcase my skills and projects in a professional manner through my React portfolio, so that potential employers can easily assess my abilities and consider me for job opportunities.
 
 ## Acceptance Criteria
 
