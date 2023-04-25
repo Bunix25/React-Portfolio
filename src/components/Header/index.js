@@ -1,5 +1,7 @@
 import React from "react";
 import Nav from "../Nav";
+import {ReactComponent as Logo} from '../../assets/small/logo.svg';
+
 
 function Header(props) {
   const { currentTab, handleTabChange } = props;
@@ -21,6 +23,9 @@ function Header(props) {
       </section>
       <section className="hero">
         <div class="hero-cta">
+        <Logo className="spin-logo" />
+
+
           
           <h2>Welcome</h2>
           <p>

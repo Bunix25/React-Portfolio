@@ -144,7 +144,7 @@ header nav ul li a:hover {
   font-style: italic;
   font-size: 55px;
   color: #0E5259;
-  text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  text-shadow: 0 0 10px 40px #D5F2EA;
 }
 
 .hero-cta p {
@@ -174,13 +174,42 @@ header nav ul li a:hover {
 .intro-img {
   flex: 1 12%;
   margin-right: 20px;
+  margin-left: 20px;
+  
+  border: 2px solid #D5F2EA;
+  box-shadow: 0 0 0 10px #D5F2EA;
+  border-radius: 20px;
 }
 
 .intro-img img {
   max-width: 100%;
   height: auto;
-  margin-left: 5px;
+  margin-left: 0px;
+  border-radius: 20px;
 }
+
+.spin-logo {
+  animation: spin 15s linear infinite;
+  width: 200px;
+  height: 200px;
+  top: 0;
+  /* right:  50%; */
+  position: relative;
+  box-shadow: 0 0 20px 20px #D5F2EA;
+  border-radius: 50%;
+  
+}
+
+
+
+
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+
 
 .intro-text {
   flex: 12;
@@ -569,13 +598,29 @@ footer a:hover {
   transition: .5s ease;
 }
 
+
+
+
+
+
+
+
 .logo {
   cursor: pointer;
   list-style: none;
-  font-size: 40px;
+  font-size: 50px;
   color: #0E5259;
   display: inline-block;
+  animation-delay: 1s;
+  animation: spin 10s linear infinite;
 }
+
+
+
+
+
+
+
 
 .logo:hover {
   color: #328C83;
@@ -767,3 +812,6 @@ label {
   }
 
 
+  
+  
+  

@@ -7,6 +7,10 @@ function Footer() {
   return (
     <footer>
       <h2>Made by Sviatoslav Zakharuk©</h2>
+      <div className="footer-lines">
+        <div className="footer-line"></div>
+        <div className="footer-line footer-line--2"></div>
+      </div>
       <p>
         <ul>
           <a href="https://github.com/Bunix25">
