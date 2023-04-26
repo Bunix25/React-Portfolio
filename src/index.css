@@ -190,8 +190,8 @@ header nav ul li a:hover {
 
 .spin-logo {
   animation: spin 15s linear infinite;
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   top: 0;
   /* right:  50%; */
   position: relative;
@@ -612,7 +612,7 @@ footer a:hover {
   color: #0E5259;
   display: inline-block;
   animation-delay: 1s;
-  animation: spin 10s linear infinite;
+  /* animation: spin 10s linear infinite; */
 }
 
 
