@@ -28,7 +28,7 @@ This project is license under MIT ![Github licence](http://img.shields.io/badge/
 1. Run `npm start` to start the web server and connect
 
 ## User Story
-As a job seeker, I want to showcase my skills and projects in a professional manner through my React portfolio, so that potential employers can easily assess my abilities and consider me for job opportunities.
+As a job seeker, I want to showcase my skills and projects professionally through my React portfolio, so potential employers can quickly assess my abilities and consider me for job opportunities.
 
 ## Acceptance Criteria
 
@@ -50,5 +50,5 @@ As a job seeker, I want to showcase my skills and projects in a professional man
 
 ## Usage 
 
-To create a portfolio, using React. The user can review and About Me section, a sample Portfolio, a contact form, and be able to download the Resume.
+To create a portfolio, using React. The user can review an About Me section, a sample Portfolio, and a contact form, and be able to download the Resume.
 
